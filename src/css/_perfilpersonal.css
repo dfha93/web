@@ -1,0 +1,33 @@
+.ajuste{
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    padding-top: 5%;
+}
+
+.row {
+    display: flex;
+}
+
+.column1{
+  flex: 25% !important;
+  padding-right: 1px;
+  text-align: justify;
+
+}
+
+.column2{
+  flex: 25% !important;
+  padding-top: 10px;
+}
+
+.column3{
+    flex: 25% !important;
+    padding-right: 1px;
+    text-align: justify;
+  }
+  
+.column4{
+    flex: 25% !important;
+    padding-top: 10px;
+  }

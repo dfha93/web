@@ -1,0 +1,35 @@
+.navbar{   
+    margin-bottom: 0px;
+    border-radius: 0px;
+  }
+.comment{
+  height: 90px !important;
+}
+
+.descripcion{
+  height: 130px !important;
+  align-self: center;
+  box-sizing: border-box;
+}
+.width{
+  max-width: 320px;
+}
+
+.row {
+  display: flex;
+}
+
+.column1 {
+flex: 50% !important;
+padding-right: 1px;
+text-align: justify;
+
+}
+
+.column2-2 {
+flex: 50% !important;
+padding-top: 10px;
+}
+
+
+   

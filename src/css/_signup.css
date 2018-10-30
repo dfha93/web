@@ -1,0 +1,40 @@
+@media all and (min-width: 480px) {
+    .Signup {
+      padding: 60px 0;
+    }
+  
+    .Signup form {
+      margin: 0 auto;
+      max-width: 320px;
+    }
+  }
+  
+  .Signup form span.help-block {
+    font-size: 14px;
+    padding-bottom: 10px;
+    color: #999;
+  }
+
+.row {
+    display: flex;
+}
+
+.column1 {
+  flex: 50% !important;
+  padding-right: 1px;
+  text-align: justify;
+
+}
+
+.column2-2 {
+  flex: 50% !important;
+  padding-top: 10px;
+}
+
+.has-warning .form-control-feedback{
+  color:#d81a1a
+}
+
+.color{
+  background: #286090 !important;
+}

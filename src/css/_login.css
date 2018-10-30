@@ -1,0 +1,37 @@
+@media all and (min-width: 480px) {
+    .Login {
+      padding: 60px 0;
+    }
+  
+    .Login form {
+      margin: 0 auto;
+      max-width: 320px;
+    }
+
+    .navbar{   
+      margin-bottom: 0px;
+      border-radius: 0px;
+    }
+  }
+
+  .linea{
+    border-bottom: 1px solid black!important;
+  }
+
+  .espacioCentro{
+    padding-left: 20%
+  }
+
+  .POCISION{
+    text-align: left !important;
+    padding-left: 0%;
+    padding-top: 5%;
+  }
+
+  .column2-2{
+    padding-left: 5% !important
+  }
+
+  .color{
+    background: #286090 !important;
+}
